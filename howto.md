@@ -1,0 +1,2 @@
+- place `.zshrc` in home directory: `~/.zshrc`
+- place `avi.theme` in `/Users/avi/.oh-my-zsh/themes/`
